@@ -1,0 +1,1 @@
+A project that I am interested in is a robot that can give you haircuts. It will scan the shape of your head and use AI to determine where to use clippers to give the hairstyle you want. It would be a common repository as there would not be too many different deviations of it.
